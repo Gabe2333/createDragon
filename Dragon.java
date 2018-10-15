@@ -21,6 +21,7 @@ public class Dragon
     
     /**
      * Default Constructor for objects of class Dragon
+     * Actually you should make it a bit bigger, multiply everything by 2
      */
     public Dragon()
     {
